@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sergiiio98
-- 👀 I’m interested in football and computer games
+- 👀 I’m interested in football and do some sport stuff
 - 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate with intresting projects
 - 📫 How to reach me: alan.kazek@gmail.com
